@@ -1,1 +1,1 @@
-document.documentElement.innerHTML=" test webpack";
+(()=>{"use strict";console.log("webpack")})();

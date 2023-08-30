@@ -1,3 +1,4 @@
-// import "../styles/style.css";
+import "../styles/style.scss";
 
-document.documentElement.innerHTML = " test webpack";
+// document.documentElement.innerHTML = " test webpack";
+console.log('webpack');
